@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "fr.perso.nico",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "JhipsterSuivi",
+        "packageName": "fr.perso.nico",
+        "packageFolder": "fr/perso/nico",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OWM3ZTAyZmUyMDZjMTU0ZmQ1ZGMyODdhNzBkMTBiZGM0NjdiOGI4YTVjYTAyMWE0YmM2NTQ0Y2Y3NWViY2M0NDFkOGNkNWMyNjUwMTFmODE2MzNiMzNhZjY1MDAyY2U3MjhmZDc1Nzk4YTg0YzNmNjI1ZDBjNzUwYmNkZTczMGE=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "fr"]
+    }
+}
