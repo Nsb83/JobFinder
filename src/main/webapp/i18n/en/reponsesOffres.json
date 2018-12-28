@@ -1,0 +1,26 @@
+{
+    "jhipsterSuiviApp": {
+        "reponsesOffres": {
+            "home": {
+                "title": "Job Finder",
+                "createLabel": "Create a new offer",
+                "createOrEditLabel": "Create or edit an Offer"
+            },
+            "created": "A new offer is created with identifier {{ param }}",
+            "updated": "A offer is updated with identifier {{ param }}",
+            "deleted": "A offer is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete offer {{ id }}?"
+            },
+            "detail": {
+                "title": "offer"
+            },
+            "name": "Entreprise",
+            "job": "Emploi",
+            "url": "Url",
+            "answerDate": "Date de réponse",
+            "status": "Status",
+            "meetDate": "Date de rencontre"
+        }
+    }
+}

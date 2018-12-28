@@ -1,0 +1,26 @@
+{
+    "jhipsterSuiviApp": {
+        "reponsesOffres": {
+            "home": {
+                "title": "ReponsesOffres",
+                "createLabel": "Créer un nouveau Reponses Offres",
+                "createOrEditLabel": "Créer ou éditer un Reponses Offres"
+            },
+            "created": "Un nouveau Reponses Offres a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Reponses Offres avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Reponses Offres avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Reponses Offres {{ id }} ?"
+            },
+            "detail": {
+                "title": "Reponses Offres"
+            },
+            "name": "Name",
+            "job": "Job",
+            "url": "Url",
+            "answerDate": "Answer Date",
+            "status": "Status",
+            "meetDate": "Meet Date"
+        }
+    }
+}

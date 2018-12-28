@@ -41,6 +41,7 @@ public class CacheConfiguration {
             cm.createCache(fr.perso.nico.domain.User.class.getName(), jcacheConfiguration);
             cm.createCache(fr.perso.nico.domain.Authority.class.getName(), jcacheConfiguration);
             cm.createCache(fr.perso.nico.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            cm.createCache(fr.perso.nico.domain.ReponsesOffres.class.getName(), jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }
